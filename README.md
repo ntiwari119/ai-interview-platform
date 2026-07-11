@@ -1,6 +1,7 @@
-# AI Interview Platform 🚀
+# InterviewIQ 🚀
+AI-Powered Interview Preparation Platform 
 
-An AI-powered interview preparation platform that analyzes a candidate's resume and target job description to generate personalized interview preparation material.
+It analyzes a candidate's resume and target job description to generate personalized interview preparation material.
 
 ## Features
 
